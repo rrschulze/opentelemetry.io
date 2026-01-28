@@ -34,6 +34,8 @@ or z/OS expert to benefit from this section.
 
 ## What we mean by “mainframe”
 
+Mainframes are data servers that are designed to process billions of transactions daily with the highest levels of security and reliability. For a more detailed overview, please visit:[What is a mainframe?](https://www.ibm.com/think/topics/mainframe)
+
 In this documentation, “mainframe” generally refers to:
 
 - Platforms such as **IBM z/OS® mainframes** and compatible environments that
